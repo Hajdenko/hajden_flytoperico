@@ -1,2 +1,1 @@
-# hajden_flytoperico
-Simple script that takes you to cayo perico. (For RP)
+trash teleport to perico on airport
